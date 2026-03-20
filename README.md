@@ -1,32 +1,80 @@
 # 🎓 School Management System
 
 ## 📌 Overview
-This is a mobile-based school management application built to simplify how student data and academic records are managed.
+This is a mobile-based School Management System designed to simplify how student records, academic results, and administrative tasks are handled.
+
+The application focuses on providing an easy-to-use interface for managing school data efficiently.
+
+---
 
 ## 🚀 Features
-- Student registration and record management  
-- Result tracking and display  
-- Organized data storage using backend services  
-- Simple and user-friendly interface  
+- 📋 Student record management  
+- 📊 Result tracking and display  
+- 🗂 Organized data storage using Supabase  
+- 📱 Mobile-friendly interface built with React Native  
+
+---
 
 ## 🛠 Tech Stack
-- React Native (Expo)
-- Supabase (Backend & Database)
+- **Frontend:** React Native (Expo)  
+- **Backend & Database:** Supabase  
 
-## ▶️ How to Run
-1. Install dependencies:
+---
+
+## 📷 Screenshots
+
+Screenshots of the application can be found in the screenshots folder.
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nyarkod008/school-management-system.git
+   ```
+
+2. Navigate into the project folder:
+   ```bash
+   cd school-management-system
+   ```
+
+3. Install dependencies:
    ```bash
    npm install
    ```
-2. Start the app:
+
+4. Start the app:
    ```bash
    npx expo start
    ```
 
-## 📊 Status
-🚧 In Progress
+---
 
 ## 💡 What I Learned
-- Building mobile apps with React Native  
-- Backend integration using Supabase  
-- Structuring real-world applications  
+- Building real-world mobile applications  
+- Integrating frontend with backend services (Supabase)  
+- Structuring scalable and maintainable code  
+- Handling user data and application state  
+
+---
+
+## 📊 Project Status
+🚧 In Progress — actively improving and adding more features  
+
+---
+
+## 🎯 Future Improvements
+- 🔐 User authentication (login/signup)  
+- 👥 Role-based access (admin/teacher/student)  
+- ☁️ Cloud deployment  
+- 📈 Analytics and reporting features  
+
+---
+
+## 👨‍💻 Author
+**Daniel Nyarko**
+
+---
+
+## 🤝 Let’s Connect
+I’m open to internship, freelance, and collaboration opportunities.
