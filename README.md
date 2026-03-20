@@ -25,7 +25,7 @@ This is a mobile-based school management application built to simplify how stude
 
 ## 📷 Screenshots
 
-![Home](./screenshots/WhatsApp Image 2026-03-20 at 1.42.46 AM.jpeg)
+WhatsApp Image 2026-03-20 at 1.42.47 AM (1).jpeg
 (./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM(1).jpeg)
 (./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM(2).jpeg)
 (./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM(3).jpeg)
