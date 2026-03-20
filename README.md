@@ -23,19 +23,6 @@ This is a mobile-based school management application built to simplify how stude
    npx expo start
    ```
 
-## 📷 Screenshots
-
-WhatsApp Image 2026-03-20 at 1.42.47 AM (1).jpeg
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM(1).jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM(2).jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM(3).jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM(4).jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.47 AM.jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.48 AM(1).jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.48 AM(2).jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.48 AM(3).jpeg)
-(./screenshots/WhatsApp Image 2026-03-20 at 1.42.48 AM.jpeg)
-
 ## 📊 Status
 🚧 In Progress
 
