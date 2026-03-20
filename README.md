@@ -1,54 +1,35 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# 🎓 School Management System
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 📌 Overview
+This is a mobile-based school management application built to simplify how student data and academic records are managed.
 
-## Get started
+## 🚀 Features
+- Student registration and record management  
+- Result tracking and display  
+- Organized data storage using backend services  
+- Simple and user-friendly interface  
 
-1. Install dependencies
+## 🛠 Tech Stack
+- React Native (Expo)
+- Supabase (Backend & Database)
 
+## ▶️ How to Run
+1. Install dependencies:
    ```bash
    npm install
    ```
-
-2. Start the app
-
+2. Start the app:
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## 📷 Screenshots
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📊 Status
+🚧 In Progress
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# school-management-system
->>>>>>> 7d9a35236b7e8a16fb3a8afb69d52846f73c8656
+## 💡 What I Learned
+- Building mobile apps with React Native  
+- Backend integration using Supabase  
+- Structuring real-world applications  
